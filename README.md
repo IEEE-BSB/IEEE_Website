@@ -9,11 +9,11 @@
 
 ** GITHUB Commands **
 > to create a new branch type:
->> git checkout -b "branch-name"
+>> git checkout -b "branch-name" |
 >> ex) git checkout -b frankys-branch
 >
 > to check which branch your on
->> git branch
+>> git branch |
 >> 
 >> ex)
 >> 
@@ -23,13 +23,13 @@
 >> 
 >> (this means i am on main and not frankys-branch)
 >
-> to switch to another branch
->> git checkout branch-name
+> to switch to another branch |
+>> git checkout branch-name |
 >> ex) git checkout frankys-branch
 >
 > Pushing to YOUR branch
->> git add .
->> git checkout -m "comment what you did here, include the quotation marks"
+>> git add . |
+>> git checkout -m "comment what you did here, include the quotation marks" |
 >> git push --set-upstream origin frankys-branch
 
 
