@@ -14,8 +14,13 @@
 >
 > to check which branch your on
 >> git branch
->> ex) *main
+>> 
+>> ex)
+>> 
+>> *main
+>> 
 >> frankys-branch
+>> 
 >> (this means i am on main and not frankys-branch)
 >
 > to switch to another branch
