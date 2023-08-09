@@ -1,0 +1,15 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.nav-links{
+  color: black;
+}
+
+.card {
+  margin-bottom: 30px;
+}
