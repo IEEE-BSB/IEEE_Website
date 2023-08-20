@@ -1,13 +1,13 @@
 document.addEventListener('DOMContentLoaded', function() {
   const teamMembers = [
-    { name: 'Jorge Marquez', role: 'President', img: '../images/image_one.jpg' },
-    { name: 'Tristan Hernandez', role: 'Vice President', img: '../images/image_two.jpg' },
-    { name: 'Gonzalo Cervera', role: 'Secretary', img: '../images/image_three.jpg' },
+    { name: 'Jorge Marquez', role: 'President', img: '../images/OfficerPhotoJorge.jpg' },
+    { name: 'Tristan Hernandez', role: 'Vice President', img: '../images/OfficerPhotoTristan.jpg' },
+    { name: 'Gonzalo Cervera', role: 'Secretary', img: '../images/OfficerPhotoGonzalo.jpg' },
     { name: 'Daniela Maldonado', role: 'Networking Director', img: '../images/image_four.jpg' },
-    { name: 'Carlos Castillo', role: 'Treasurer', img: '../images/image_five.jpg' },
-    { name: 'Erick Balboa', role: 'Recruiter', img: '../images/image_six.jpg' },
+    { name: 'Carlos Castillo', role: 'Treasurer', img: '../images/OfficerPhotoCarlos.jpg' },
+    { name: 'Erick Balboa', role: 'Recruiter', img: '../images/OfficerPhotoErick.jpg' },
     { name: 'Hector Delgado', role: 'Social Media Manager', img: '../images/image_seven.jpg' },
-    { name: 'Franky Nava (Navasthetix)', role: 'Dawg', img: '../images/image_eight.jpg' },
+    { name: 'Franky Nava', role: 'Webmaster', img: '../images/WebmasterFranky.jpeg' },
     // Add more team members as needed
   ];
 
